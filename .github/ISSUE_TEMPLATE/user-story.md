@@ -1,6 +1,6 @@
 ---
 name: User Story
-about: 'BDD '
+about: 'med '
 title: ''
 labels: ''
 assignees: ''
